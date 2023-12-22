@@ -1,0 +1,6 @@
+Go to firebase >> Go to Console
+project name: FirebaseProject
+ID : fir-project-ec013
+
+Firebase-Production
+ID: fir-production-3ae48
